@@ -1,4 +1,4 @@
-<img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane_xamarin_cross_platform.svg" alt="C# icon" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./img/Wavy_Bus-20_Single-04.jpg" alt="C# icon" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 📚 <b>Fundamentos de Desenvolvimento com Java [25E2_1]</b>
