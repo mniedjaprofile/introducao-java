@@ -1,16 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        int num = 25;
-        int num2 = 20;
 
-        //Nome do metodo e variável
-        int soma = somaNumeros(num1, num2);
-        System.out.println(soma);
-    }
+        String nome = "Pedro Henrique Cardoso";
+        int idade = 36;
+        double salario = 25.589;
 
-
-
-    public static int somar(int a, int b) {
-        return a + b;
+        System.out.println("O funcionário: " + nome + " " + "tem " + idade + " anos");
+        System.out.println("E recebe um salário de R$" + salario);
     }
 }
